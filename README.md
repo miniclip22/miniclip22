@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**miniclip22/miniclip22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 # 💫 About Me:
 - 🔭 I’m currently working on building decentralized applications (DApps) and blockchain integrations at Cycloid by Innowave.
@@ -14,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn -> https://www.linkedin.com/in/duarteteles22/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love art, music, and traveling
--->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/duarteteles22/) 
