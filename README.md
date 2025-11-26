@@ -2,8 +2,6 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on building decentralized applications (DApps) and blockchain integrations at Cycloid by Innowave.
-- 🌱 I’m currently learning Innovative blockchain projects, Web3 technologies, and decentralized finance (DeFi) solutions.
 - 👯 I’m looking to collaborate on exploring advanced scalability solutions for blockchain and enhancing smart contract security. 
 - 🤔 I'm currently learning full-stack development with hardhat, Next.js, and React.js.
 - 💬 Ask me about Web3 development, rock ‘n’ roll concerts, and travel destinations.
